@@ -6,8 +6,6 @@ Hong Kong temperature visualizations by Ananya.
 
 [Open the interactive temperature visualizations](https://ananyachauhan.github.io/CSCE-679-Assignment1/)
 
-This link becomes available after the project files are uploaded and GitHub Pages is enabled for this repository. To publish, open the repository's **Settings > Pages**, choose **Deploy from a branch**, and select the branch containing these files and the **/ (root)** folder.
-
 - UIN: 237007426
 - Email: ananya.a21@tamu.edu
 
