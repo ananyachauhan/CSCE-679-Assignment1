@@ -11,7 +11,7 @@ Hong Kong temperature visualizations by Ananya.
 
 ## Open the visualization
 
-Open `temperature-matrix.html` in a browser. It contains two tabs and works offline, without a server or installed dependencies.
+Open `index.html` in a browser. It contains two tabs and works offline, without a server or installed dependencies.
 
 - **Level 1: Monthly** displays monthly temperature extremes for 1997-2017.
 - **Level 2: Daily** displays daily maximum and minimum lines within monthly cells for 2008-2017.
